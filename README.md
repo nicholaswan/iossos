@@ -16,8 +16,5 @@
 <li><p>如果搜索不到Shadowrocket 那么表示下架了，直接下载 <a href="https://dn-shimo-attachment.qbox.me/nF8GwQhW13M8HBmb/Shadowrocket-2.1.10-PP.ipa">Shadowrocket.ipa</a> 导入到<strong>下载管理</strong>中安装</p></li>
 </ul>
 
-<li><p>一次性认证不要勾选。</p></li>
-<li><p>服务器信息根据自身情况修改。</p></li
 <li><p>iPhone/iPad教程（<a href="http://yunchangcheng.net/ios">点这里</a>）</p></li>
-
 <li><p>Shadowrocket 配置方法视频（<a href="https://dn-shimo-attachment.qbox.me/KmZQ5tk32XEHowdp/Shadowrocket-phone.mp4">点这里</a>）</p></li>
