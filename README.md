@@ -20,3 +20,4 @@
 <ul>
 <li><p>一次性认证不要勾选。</p></li>
 <li><p>服务器信息根据自身情况修改。</p></li
+<li><p>iPhone/iPad教程（<a href="http://yunchangcheng.net/ios">点这里</a>）</p></li>
