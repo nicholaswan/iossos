@@ -17,7 +17,6 @@
 </ul>
 <li><p>iPhone/iPad教程（<a href="http://yunchangcheng.net/ios">点这里</a>）</p><p>Shadowrocket 配置方法视频（<a href="https://dn-shimo-attachment.qbox.me/KmZQ5tk32XEHowdp/Shadowrocket-phone.mp4">点这里</a>）</p></li>
 
-<p><span id="menu_index_4" name="menu_index_4"></span>&lt;h2&gt;Shadowrocket 配置方法视频&lt;/h2&gt;</p>
 <video class="video" controls="controls" playsinline="" webkit-playsinline="" src="https://dn-shimo-attachment.qbox.me/KmZQ5tk32XEHowdp/Shadowrocket-phone.mp4" width="100%"></video>
 
 
